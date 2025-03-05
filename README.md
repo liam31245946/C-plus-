@@ -1,2 +1,2 @@
-# C-
+# C Plus
 C++ fundamental
